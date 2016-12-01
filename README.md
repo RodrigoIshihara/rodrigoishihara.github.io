@@ -1,2 +1,2 @@
-# rodrigoishihara.github.io
-Estudos Alura
+# http://rodrigoishihara.github.io
+Quero miojo
